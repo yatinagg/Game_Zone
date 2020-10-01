@@ -1,3 +1,4 @@
+/* GameZone.cpp */
 #include<fstream.h>
 #include<stdlib.h> //for rand(),exit() and srand() functions
 #include<string.h> //for strcpy() function
